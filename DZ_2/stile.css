@@ -1,0 +1,22 @@
+p {
+    color: red;
+}
+p,ul {
+	color: red;
+}
+teg1{
+	background-color: #ff0fd5;
+}
+body {
+	background-color: #ffefd5;
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	text-shadow: 3px 3px 1px rgb(0, 92, 128);
+}
+
+h2{
+	color: blue;
+}
